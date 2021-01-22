@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sinem</h1>
 <h3 align="center">A frontend developer from Istanbul #womenintech</h3>
 
-- 🌱 I’m currently learning **Vue.js and JavaScript**
+🌱 I’m currently learning **Vue.js and JavaScript**
 
-- 💬 Ask me about **Vue.js and JavaScript**
+💬 Ask me about **Vue.js and JavaScript**
 
-- 📫 How to reach me **ssinemsungur@gmail.com**
+📫 How to reach me **ssinemsungur@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
