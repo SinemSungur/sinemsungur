@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sinem</h1>
-<h3 align="center">A frontend developer from Istanbul #womenintech</h3>
+<h3 align="center">A Jr. frontend developer from Istanbul #womenintech</h3>
 
 🌱 I’m currently learning **Vue.js and JavaScript**
 
