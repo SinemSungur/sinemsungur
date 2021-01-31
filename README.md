@@ -5,7 +5,7 @@
 
 💬 Ask me about **Vue.js and JavaScript**
 
-📫 How to reach me **ssinemsungur@gmail.com**
+📫 Reach me **ssinemsungur@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
