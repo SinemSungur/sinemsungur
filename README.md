@@ -2,7 +2,7 @@
 <h3 align="center">Frontend developer from Turkey #womenintech</h3>
 
 
-💬 Ask me about **Vue.js and JavaScript**
+💬 Ask me anything about Frontend Development - **Vue.js and JavaScript** -
 
 📫 Reach me **ssinemsungur@gmail.com**
 
