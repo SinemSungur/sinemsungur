@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sinem</h1>
 <h3 align="center">Frontend developer from Turkey #womenintech</h3>
 
-🌱 I’m currently learning **Vue3**
 
 💬 Ask me about **Vue.js and JavaScript**
 
